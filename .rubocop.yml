@@ -2,4 +2,4 @@ Metrics/MethodLength:
   Max: 15
 
 AllCops:
-  NewCops: enable
+  NewCops: disable
